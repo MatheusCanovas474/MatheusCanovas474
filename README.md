@@ -13,6 +13,7 @@
 - Java
 - Kotlin
 - SpringBoot
+- Git
 - HTML
 - CSS
 - JavaScript
