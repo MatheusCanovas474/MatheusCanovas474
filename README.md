@@ -1,5 +1,26 @@
 ### Hi there 👋
+## I'm Matheus Canovas
+- I live in :brazil:, southeast
+- I have been working on CONTMATIC PHOENIX as a Java Developer Trainee 💻
+- And i have been learning mor about Java and Kotlin ☕
 
+## Connect with me:
+<a href="https://www.linkedin.com/in/matheuscanovas/" target="_blank"> 
+  Linkedin
+</a>
+
+## My Skills:
+- Java
+- Kotlin
+- SpringBoot
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- MongoDB
+- NoSQL
+- OOP
+- Test Automation with Cypress
 <!--
 **MatheusCanovas474/MatheusCanovas474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
