@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm Matheus Canovas
-- I live in :brazil:, southeast
+- I live in Brazil, Southeast
 - I have been working on CONTMATIC PHOENIX as a Java Developer Trainee 💻
 - And i have been learning mor about Java and Kotlin ☕
 
